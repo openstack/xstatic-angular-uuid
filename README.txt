@@ -1,5 +1,5 @@
 XStatic-Angular-UUID
---------------
+--------------------
 
 Angular-UUID JavaScript library packaged for setuptools (easy_install) / pip.
 
